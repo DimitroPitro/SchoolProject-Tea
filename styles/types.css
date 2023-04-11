@@ -43,7 +43,7 @@
     left: 0;
 }
 
-.info:hover h1 {
+.info h1 {
     text-align: center;
     color: azure;
     border-bottom: 3px solid azure;
@@ -53,7 +53,7 @@
     font-weight: normal;
 }
 
-.info:hover p {
+.info p {
     padding-top: 15px;
     color: azure;
     padding-bottom: 20px;
